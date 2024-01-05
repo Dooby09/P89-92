@@ -1,0 +1,27 @@
+body{
+    background-color:bisque;
+}
+.player1input,.player2input{
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: black;
+    border-width:2px;
+    border-style:dotted;
+    float: none;
+}
+.login{
+    background-color: white;
+    border:dotted 2px black;
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    font-size:30px;
+}
+#output{
+    border-style:double;
+    background:white;
+    border-top:10px solid mediumvioletred;
+    padding:10px;
+    border-radius:10px;
+}
